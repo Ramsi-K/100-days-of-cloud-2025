@@ -3,44 +3,47 @@
 </p>
 
 ## The Challenge
-1. Read about the challenge and register at [#100DaysOfCloud.com](https://100DaysOfCloud.com)
-2. Join the [Discord Channel](https://discord.gg/c6Db8nY)
-3. Copy the [100DaysOfCloud/100DaysOfCloud Journey Template](https://github.com/100DaysOfCloud/100DaysOfCloud/generate)
-4. Use the [Micro](Templates/000-DAY-ARTICLE-MICRO-TEMPLATE.md), [Short](Templates/001-DAY-ARTICLE-SHORT-TEMPLATE.md) or [Long](Templates/002-DAY-ARTICLE-LONG-TEMPLATE.md) Day Journey Template and document your day-to-day progress.
-5. Update your main README to link back to your Day Journey article
-4. If you need ideas go to [#100DaysOfCloudIdeas](https://github.com/100DaysOfCloud/100DaysOfCloudIdeas)
 
-## How to use this template:
-Fill in your details where you see this icon ✍️
-We have provided a sample Day Journey entry staring at 0. You can delete this example.
+The 100 Days of Cloud challenge is a global, community-driven learning journey where participants dedicate time each day to study, build, and share what they learn about cloud computing.
 
-## [✍️ Your Name]'s Cloud Journey
+There are no fixed rules — the goal is steady progress and public accountability. Each day can include reading documentation, completing labs, attending workshops, or building small projects.
 
-[✍️ Introduce yourself]
+> 🕒 Note: I began this repository after Day 11 of my challenge.
+> The first eleven days were logged retrospectively from my X/Twitter posts, and I’m continuing forward from Day 12 with regular updates here.
 
-[✍️ Tell us why you started this challenge]
+## Ramsi's Cloud Journey
 
-[✍️ Tell us where you want to be at the end of the challenge]
+<p align="center">
+  <img src="banner-1.png">
+</p>
 
-- [✍️ Link to your Twitter](https://twitter.com/username)
-- [✍️ Link to your LinkedIn](https://www.linkedin.com/in/username)
+I’m Ramsi, an AI engineer continuing my cloud learning journey.
+
+Earlier this year, I renewed my **AWS Cloud Practitioner** certification and completed the **AWS AI Practitioner** exam. Through those studies I discovered how essential cloud infrastructure is to AI development.
+
+I started the 100 Days of Cloud challenge to continue growing step by step. I’m especially interested in Generative AI on AWS, and plan to learn through AWS workshops, community bootcamps, and projects such as the _Cloud Resume Challenge_.
+
+By the end of this challenge, I hope to deepen my understanding of how AI systems can be built, deployed, and managed on AWS, and prepare myself for the upcoming **AWS Generative AI Certification**.
+
+- [✍️ Link to my Twitter](https://x.com/ramsi_k_)
+- [✍️ Link to my LinkedIn](https://www.linkedin.com/in/ramsikalia)
 
 ## Stepping out the door
 
-- [ ] ☁️ 1 > [My First Day](Journey/001/Readme.md)
-- [ ] ☁️ 2 > [](Journey/002/Readme.md)
-- [ ] ☁️ 3 > [](Journey/003/Readme.md)
-- [ ] ☁️ 4 > [](Journey/004/Readme.md)
-- [ ] ☁️ 5 > [](Journey/005/Readme.md)
-- [ ] ☁️ 6 > [](Journey/006/Readme.md)
-- [ ] ☁️ 7 > [](Journey/007/Readme.md)
-- [ ] ☁️ 8 > [](Journey/008/Readme.md)
-- [ ] ☁️ 9 > [](Journey/009/Readme.md)
-- [ ] ☁️ 10 > [](Journey/010/Readme.md)
+- [x] ☁️ 1 > [Cloud Credits & Kickoff](Journey/001/Readme.md)
+- [x] ☁️ 2 > [The 7 Rs of Migration](Journey/002/Readme.md)
+- [x] ☁️ 3 > [Rehost, Replatform, Refactor](Journey/003/Readme.md)
+- [x] ☁️ 4 > [VMware Foundations on AWS](Journey/004/Readme.md)
+- [x] ☁️ 5 > [Data on the Move](Journey/005/Readme.md)
+- [x] ☁️ 6 > [Wiring Up EdgeMind](Journey/006/Readme.md)
+- [x] ☁️ 7 > [Modernization Mindset](Journey/007/Readme.md)
+- [x] ☁️ 8 > [The MCP Breakthrough](Journey/008/Readme.md)
+- [x] ☁️ 9 > [From Healthcare to EdgeMind](Journey/009/Readme.md)
+- [x] ☁️ 10 > [Graduating BeSA Cloud Academy](Journey/010/Readme.md)
 
 ## Walking down the road
 
-- [ ] ☁️ 11 > [](Journey/011/Readme.md)
+- [x] ☁️ 11 > [The Edge Theory Day](Journey/011/Readme.md)
 - [ ] ☁️ 12 > [](Journey/012/Readme.md)
 - [ ] ☁️ 13 > [](Journey/013/Readme.md)
 - [ ] ☁️ 14 > [](Journey/014/Readme.md)
