@@ -45,7 +45,7 @@ By the end of this challenge, I hope to deepen my understanding of how AI system
 
 - [x] ☁️ 11 > [The Edge Theory Day](Journey/011/Readme.md)
 - [x] ☁️ 12 > [The Bedrock Playground](Journey/012/Readme.md)
-- [ ] ☁️ 13 > [](Journey/013/Readme.md)
+- [x] ☁️ 13 > [The Two-File Update](Journey/013/Readme.md)
 - [ ] ☁️ 14 > [](Journey/014/Readme.md)
 - [ ] ☁️ 15 > [](Journey/015/Readme.md)
 - [ ] ☁️ 16 > [](Journey/016/Readme.md)

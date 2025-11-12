@@ -1,52 +1,25 @@
-**Add a cover photo like:**
-![placeholder image](https://via.placeholder.com/1200x600)
+![banner](../../banner-1.png)
 
-# New post title here
-
-## Introduction
-
-✍️ (Why) Explain in one or two sentences why you choose to do this project or cloud topic for your day's study.
-
-## Prerequisite
-
-✍️ (What) Explain in one or two sentences the base knowledge a reader would need before describing the the details of the cloud service or topic.
-
-## Use Case
-
-- 🖼️ (Show-Me) Create an graphic or diagram that illustrate the use-case of how this knowledge could be applied to real-world project
-- ✍️ (Show-Me) Explain in one or two sentences the use case
+# Day 13/100
 
 ## Cloud Research
 
-- ✍️ Document your trial and errors. Share what you tried to learn and understand about the cloud topic or while completing micro-project.
-- 🖼️ Show as many screenshot as possible so others can experience in your cloud research.
+Today's lab: _Generate Code for a Webpage._
 
-## Try yourself
-
-✍️ Add a mini tutorial to encourage the reader to get started learning something new about the cloud.
-
-### Step 1 — Summary of Step
-
-![Screenshot](https://via.placeholder.com/500x300)
-
-### Step 1 — Summary of Step
-
-![Screenshot](https://via.placeholder.com/500x300)
-
-### Step 3 — Summary of Step
-
-![Screenshot](https://via.placeholder.com/500x300)
-
-## ☁️ Cloud Outcome
-
-✍️ (Result) Describe your personal outcome, and lessons learned.
-
-## Next Steps
-
-✍️ Describe what you think you think you want to do next.
+- Used **Amazon Bedrock (Nova Lite)** to generate HTML templates for a marketing webpage.
+- Connected to a pre-configured **EC2 instance** via **Systems Manager Session Manager** and updated two HTML files.
+- No automation or CI/CD — focus was on showing how non-technical staff could leverage GenAI to refresh site content inside a managed AWS environment.
+- Watched overview lectures on **Bedrock**, **Systems Manager**, **AI Monitoring Tools**, **When to Use AI**, and **AI Model Lifecycle**.
+- Plan: finish remaining GenAI Practitioner modules this week, then switch to **AWS Developer Associate** prep (serverless path suits me better than SAA).
 
 ## Social Proof
 
-✍️ Show that you shared your process on Twitter or LinkedIn
+[X Post](https://x.com/ramsi_k_/status/1988610836043293003)
 
-[link](link)
+## Screenshots
+
+![](Screenshot%202025-11-12%20175451.png)
+
+![](Screenshot%202025-11-12%20181708.png)
+
+![](Screenshot%202025-11-12%20181836.png)
